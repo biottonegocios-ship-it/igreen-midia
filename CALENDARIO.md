@@ -11,3 +11,5 @@
 | 19/10 | Mesmo Reels | Story (vídeo) | 17915069220496493 | — |
 
 Créditos Flow em 19/10: ~250 no início; gastos ~60 (3 cenas + refação da cena 1). Áudios da Aline ainda não usados: 2 (Seguro sem fidelidade), 3 (30% até sábado), 5 (Mudei de casa), 6 (Último dia dos 30%).
+
+20/10 (terça): Reels NÃO publicado — computador desconectou durante a abertura do Flow; pastas Documents/Downloads aguardando aprovação no Mac. Nenhum crédito gasto. Tema previsto: Mudou de casa? (áudio 5 da Aline).
