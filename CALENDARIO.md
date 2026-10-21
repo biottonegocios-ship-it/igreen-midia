@@ -20,3 +20,8 @@ Créditos Flow em 19/10: ~250 no início; gastos ~60 (3 cenas + refação da cen
 
 Créditos Flow em 20/10: 30 gastos (3 × Lite); restam 160. Áudios da Aline ainda não usados: 2 (Seguro sem fidelidade), 3 (30% até sábado), 6 (Último dia dos 30%) — Seguro só até 31/10.
 Obs. técnica: download pelo menu/âncora do Flow não chega ao Downloads; caminho que funciona: pegar o src do <video> na página /edit/ → Porter creative.rehost_media → curl no Porter asset_url.
+
+| 21/10 | Os 5 aparelhos que mais devoram sua conta (micro-ondas 12 · lâmpadas 90→14 LED · geladeira etiqueta · chuveiro 110 · ar 290 kWh) · pilar 2 → 3 · ECONOMIA | Carrossel 8 (c3_5aparelhos_01–08; horário de ponta deixado para o carrossel de sáb 24) | 18105281609226153 | 0 (Windsor sem comentários em 17–21/10, cache; plano BASIC sem refresh) |
+| 21/10 | Enquete "Qual aparelho mais pesa na sua conta?" (ar × chuveiro) · pilar 1 → 2 | Story (s_2026-10-21_aparelhos.jpg, opções desenhadas) | 18019916273734421 | — |
+
+21/10: versão com espaço para o adesivo de enquete em stories/s_2026-10-21_aparelhos_ENQUETE_app.jpg (a API não coloca adesivo; a Aline posta pelo app se quiser a enquete real).
