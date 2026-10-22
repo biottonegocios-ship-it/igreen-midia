@@ -25,3 +25,8 @@ Obs. técnica: download pelo menu/âncora do Flow não chega ao Downloads; camin
 | 21/10 | Enquete "Qual aparelho mais pesa na sua conta?" (ar × chuveiro) · pilar 1 → 2 | Story (s_2026-10-21_aparelhos.jpg, opções desenhadas) | 18019916273734421 | — |
 
 21/10: versão com espaço para o adesivo de enquete em stories/s_2026-10-21_aparelhos_ENQUETE_app.jpg (a API não coloca adesivo; a Aline posta pelo app se quiser a enquete real).
+
+| 22/10 | Ar em 17° "gela mais rápido"? Spoiler: não · use 23° (ar 12.000 BTU 8 h/noite ≈ 290 kWh) · pilar 1 (ponte p/ 3 na legenda) · CTA Siga o perfil | Estático-meme (posts/e2_ar17.jpg) | 18247460935315240 | 0 (Windsor sem comentários em 17–22/10) |
+| 22/10 | Quiz "Qual a temperatura ideal do ar? 17° / 20° / 23°" · pilar 1 → 2 | Story (s_2026-10-22_ar17.jpg, opções desenhadas) | 17991504332863179 | — |
+
+22/10: versão com espaço para o adesivo de quiz em stories/s_2026-10-22_ar17_QUIZ_app.jpg (a Aline posta pelo app se quiser o quiz real; resposta certa 23°).
