@@ -30,3 +30,9 @@ Obs. técnica: download pelo menu/âncora do Flow não chega ao Downloads; camin
 | 22/10 | Quiz "Qual a temperatura ideal do ar? 17° / 20° / 23°" · pilar 1 → 2 | Story (s_2026-10-22_ar17.jpg, opções desenhadas) | 17991504332863179 | — |
 
 22/10: versão com espaço para o adesivo de quiz em stories/s_2026-10-22_ar17_QUIZ_app.jpg (a Aline posta pelo app se quiser o quiz real; resposta certa 23°).
+
+| 23/10 | Abrindo a conta de luz no dia 10 (investigação "quem foi que gastou?" → energia solar vira crédito · sem obra · 10% na Bahia) · pilar 1 → 3 · ECONOMIA | Reels 30,4s (Veo 3.1 Lite ×4: mãos abrindo envelope + homem investigando + drone usina solar ao pôr do sol + mulher na rede em Arembepe; voz: narração nativa do Veo) · reels/reels_2026-10-23_dia10.mp4 | 18012077846975160 | — |
+| 23/10 | Mesmo Reels | Story (vídeo) | 18492582388105735 | — |
+
+Créditos Flow em 23/10: 40 gastos (4 × Lite; 1 pedido cancelado pelo agente do Flow e refeito); restam 170. Áudios da Aline ainda não usados: 2 (Seguro sem fidelidade), 3 (30% até sábado), 6 (Último dia dos 30%) — Seguro só até 31/10.
+Obs. técnica 23/10: o Flow agora gera pelo chat do agente (configurações do agente: vídeo 9:16, x1, Veo 3.1 Lite; aprovar cada geração). Não mandar novo pedido enquanto um está "gerando" (cancela). Download: blob da URL flow-content.google (aparece em performance entries ao abrir a cena) → âncora; o arquivo fica oculto em ~/Downloads como .Q6L2SF6YDW.com.anthropic.claudefordesktop.* → copiar/stage. Se não aparecer a URL: passar o mouse na miniatura, pegar o src /asb/... do <video>, abrir numa aba nova (redireciona para googlevideo.com) e baixar o blob de lá. Sem transcrição automática (Hugging Face bloqueado): legendas cronometradas pela energia do áudio.
