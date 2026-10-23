@@ -36,3 +36,7 @@ Obs. técnica: download pelo menu/âncora do Flow não chega ao Downloads; camin
 
 Créditos Flow em 23/10: 40 gastos (4 × Lite; 1 pedido cancelado pelo agente do Flow e refeito); restam 170. Áudios da Aline ainda não usados: 2 (Seguro sem fidelidade), 3 (30% até sábado), 6 (Último dia dos 30%) — Seguro só até 31/10.
 Obs. técnica 23/10: o Flow agora gera pelo chat do agente (configurações do agente: vídeo 9:16, x1, Veo 3.1 Lite; aprovar cada geração). Não mandar novo pedido enquanto um está "gerando" (cancela). Download: blob da URL flow-content.google (aparece em performance entries ao abrir a cena) → âncora; o arquivo fica oculto em ~/Downloads como .Q6L2SF6YDW.com.anthropic.claudefordesktop.* → copiar/stage. Se não aparecer a URL: passar o mouse na miniatura, pegar o src /asb/... do <video>, abrir numa aba nova (redireciona para googlevideo.com) e baixar o blob de lá. Sem transcrição automática (Hugging Face bloqueado): legendas cronometradas pela energia do áudio.
+
+| 23/10 | Dia 10, o envelope chegou → pagar menos sem desligar nada (crédito solar · sem obra · 10% na Bahia · a partir de 150 kWh) · pilar 1 → 3 · ECONOMIA (comentar no Reels) | Story de apoio ao Reels (stories/s_2026-10-23_dia10.jpg; sexta = só Story, Reels publicado por outra tarefa) | 18088031156294651 | 0 (Windsor sem comentários em 22–23/10) |
+
+23/10: o CTA do Story pede "Comente ECONOMIA no Reels de hoje" em vez de "Responda ECONOMIA", porque o robô do Meta só responde comentários (resposta de Story vira Direct).
