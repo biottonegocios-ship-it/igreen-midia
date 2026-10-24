@@ -40,3 +40,8 @@ Obs. técnica 23/10: o Flow agora gera pelo chat do agente (configurações do a
 | 23/10 | Dia 10, o envelope chegou → pagar menos sem desligar nada (crédito solar · sem obra · 10% na Bahia · a partir de 150 kWh) · pilar 1 → 3 · ECONOMIA (comentar no Reels) | Story de apoio ao Reels (stories/s_2026-10-23_dia10.jpg; sexta = só Story, Reels publicado por outra tarefa) | 18088031156294651 | 0 (Windsor sem comentários em 22–23/10) |
 
 23/10: o CTA do Story pede "Comente ECONOMIA no Reels de hoje" em vez de "Responda ECONOMIA", porque o robô do Meta só responde comentários (resposta de Story vira Direct).
+
+| 24/10 | Horário de ponta: vale pra sua casa? (casa = mesmo preço a qualquer hora · só Tarifa Branca e alta tensão pagam mais na ponta · exemplo motor 10.000 W × 3 h × 22 dias ÷ 1.000 = 660 kWh/mês · bandeiras) · pilar 2 → 3 · LIVRE | Carrossel 7 (posts/c4_ponta_01–07) | 18120759346978435 | 0 (Windsor sem comentários em 23–24/10) |
+| 24/10 | "Quanto pesa a sua conta de luz?" (slider) → a partir de 150 kWh pode pagar menos · Comente ECONOMIA em qualquer post · pilar 1 → 3 | Story (s_2026-10-24_ponta.jpg, slider desenhado) | 18077039207460715 | — |
+
+24/10: o carrossel saiu com 1 CTA só (LIVRE), conforme a regra dura de 1 CTA por peça; o público residencial foi levado para ECONOMIA pelo Story do dia. Versão com espaço para o adesivo slider: stories/s_2026-10-24_ponta_SLIDER_app.jpg (a Aline posta pelo app se quiser o slider real). Horário exato da ponta não citado (CONFIRMAR com a distribuidora).
