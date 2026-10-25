@@ -45,3 +45,8 @@ Obs. técnica 23/10: o Flow agora gera pelo chat do agente (configurações do a
 | 24/10 | "Quanto pesa a sua conta de luz?" (slider) → a partir de 150 kWh pode pagar menos · Comente ECONOMIA em qualquer post · pilar 1 → 3 | Story (s_2026-10-24_ponta.jpg, slider desenhado) | 18077039207460715 | — |
 
 24/10: o carrossel saiu com 1 CTA só (LIVRE), conforme a regra dura de 1 CTA por peça; o público residencial foi levado para ECONOMIA pelo Story do dia. Versão com espaço para o adesivo slider: stories/s_2026-10-24_ponta_SLIDER_app.jpg (a Aline posta pelo app se quiser o slider real). Horário exato da ponta não citado (CONFIRMAR com a distribuidora).
+
+| 25/10 | Portabilidade da luz = portabilidade do celular (distribuidora continua entregando · crédito solar · sem obra/instalação/taxa · 100% online · Bahia 10%, até 14% acima de 1.000 kWh · Lei 14.300/2022 · 600 mil clientes · a partir de 150 kWh · quem não entra · 1º crédito ~90 dias) · pilar 3 · ECONOMIA | Carrossel 8 (posts/c5_portabilidade_01–08) | 18027951980856730 | 0 (Windsor: 1 comentário em 24–25/10, mídia 17964440880246768, sem palavra-chave e sem dúvida sobre energia — não respondido) |
+| 25/10 | "Portabilidade da conta de luz" → Comente ECONOMIA no carrossel de hoje · pilar 3 | Story (s_2026-10-25_portabilidade.jpg) | 18641960107041670 | — |
+
+25/10: versão com espaço para o adesivo de caixa de perguntas ("Qual é a sua maior dúvida sobre a conta de luz?") em stories/s_2026-10-25_duvidas_CAIXA_app.jpg — a Aline posta pelo app; as respostas alimentam os Stories de terça 27/10.
