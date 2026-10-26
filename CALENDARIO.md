@@ -50,3 +50,8 @@ Obs. técnica 23/10: o Flow agora gera pelo chat do agente (configurações do a
 | 25/10 | "Portabilidade da conta de luz" → Comente ECONOMIA no carrossel de hoje · pilar 3 | Story (s_2026-10-25_portabilidade.jpg) | 18641960107041670 | — |
 
 25/10: versão com espaço para o adesivo de caixa de perguntas ("Qual é a sua maior dúvida sobre a conta de luz?") em stories/s_2026-10-25_duvidas_CAIXA_app.jpg — a Aline posta pelo app; as respostas alimentam os Stories de terça 27/10.
+
+| 26/10 | Última semana do cupom de 30% no seguro do carro (cotação até 31/10 · mensal, sem fidelidade · assistência 24 h · roubo, furto, colisão, fenômenos da natureza · sem franquia em roubo, furto sem recuperação e perda total · cobertura após vistoria) · pilar 3 · SEGURO | Estático (posts/e3_seguro_cupom.jpg) | 17915465691509376 | 0 (Windsor sem comentários em 25–26/10) |
+| 26/10 | Contagem regressiva "Cupom de 30% no seguro do carro · último dia 31/10" → Comente SEGURO no post de hoje · pilar 3 | Story (s_2026-10-26_seguro.jpg, data desenhada) | 18349927198254322 | — |
+
+26/10: versão com espaço para o adesivo de contagem regressiva (até 31/10) em stories/s_2026-10-26_seguro_CONTAGEM_app.jpg — a Aline posta pelo app se quiser a contagem real. Atenção: a legenda do estático saiu com 5 emojis (🚗 + 4 ✔️ como marcadores), acima do limite de 3; a API não permite editar — a Aline pode ajustar no app. A partir de 01/11, editar a mensagem do robô SEGURO (cupom encerrado) e não citar mais o cupom.
