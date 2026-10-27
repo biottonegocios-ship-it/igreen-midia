@@ -55,3 +55,7 @@ Obs. técnica 23/10: o Flow agora gera pelo chat do agente (configurações do a
 | 26/10 | Contagem regressiva "Cupom de 30% no seguro do carro · último dia 31/10" → Comente SEGURO no post de hoje · pilar 3 | Story (s_2026-10-26_seguro.jpg, data desenhada) | 18349927198254322 | — |
 
 26/10: versão com espaço para o adesivo de contagem regressiva (até 31/10) em stories/s_2026-10-26_seguro_CONTAGEM_app.jpg — a Aline posta pelo app se quiser a contagem real. Atenção: a legenda do estático saiu com 5 emojis (🚗 + 4 ✔️ como marcadores), acima do limite de 3; a API não permite editar — a Aline pode ajustar no app. A partir de 01/11, editar a mensagem do robô SEGURO (cupom encerrado) e não citar mais o cupom.
+
+| 27/10 | 3 dúvidas sobre a conta de luz (precisa de obra? não · conta muda de nome? sim, troca de titularidade pela fornecedora · quem pode? a partir de 150 kWh; não entram baixa renda nem quem já tem placa solar) → Comente ECONOMIA no Reels de hoje · pilar 3 | Story de apoio ao Reels "3 erros com o ar-condicionado" (stories/s_2026-10-27_duvidas.jpg; terça = só Story, Reels publicado por outra tarefa) | 18151884445515172 | 0 (Windsor sem comentários em 26–27/10) |
+
+27/10: as respostas reais da caixa de perguntas de 25/10 não chegam pela API; o Story usou dúvidas comuns respondidas só com fatos da base (sem dizer que vieram da caixa). Se a Aline recebeu perguntas pela caixa, dá para aproveitá-las no carrossel de objeções da próxima semana. Semana 28/10 em diante ainda não está na linha editorial: a tarefa de amanhã cria a próxima semana.
