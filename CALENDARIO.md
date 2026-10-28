@@ -67,3 +67,8 @@ Obs. técnica 23/10: o Flow agora gera pelo chat do agente (configurações do a
 
 ATENÇÃO 27/10 — publicação DUPLICADA: a tarefa agendada de terça (disparada atrasada às 22h42 de Brasília) rodou ao mesmo tempo que a sessão acima, reaproveitou as mesmas 4 cenas do Flow (nenhum crédito extra) e publicou uma segunda versão (33,4 s, com cartela final animada) antes de ver o registro acima: Reels 17942796345363676 + Story 18111954110182911. A API (Windsor) não apaga posts: a Aline deve apagar essa duplicata pelo app (a versão a manter é a 17983232613104089, que desfocou a marca do controle). O arquivo da versão duplicada ficou no commit ec02719 (reels/reels_2026-10-27_ar_condicionado.mp4), substituído pelo commit 49ded6b.
 Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se a data de hoje já tem Reels no CALENDARIO.md; se tiver, não publicar.
+
+| 28/10 | Como ler sua conta de luz em 5 passos (consumo em kWh · histórico · bandeira · taxa mínima 30/50/100 kWh · passou de 150 kWh? crédito solar, sem obra, Bahia 10% · quem não entra) · pilar 2 → 3 · ECONOMIA | Carrossel 8 (posts/c6_leiaconta_01–08) | 18180878827433115 | 0 (Windsor sem comentários em 27–28/10) |
+| 28/10 | "Você sabe ler a sua conta de luz?" → é o kWh · Comente ECONOMIA no carrossel de hoje · pilar 2 → 3 | Story (s_2026-10-28_leiaconta.jpg) | 17989169166074041 | — |
+
+28/10: versão com espaço para o adesivo de enquete ("Você sabe ler a sua conta de luz? Sei / Não faço ideia") em stories/s_2026-10-28_leiaconta_ENQUETE_app.jpg — a Aline posta pelo app se quiser a enquete real. Semana 28/10 a 03/11 criada e acrescentada à linha editorial (claude/02-linha-editorial.md).
