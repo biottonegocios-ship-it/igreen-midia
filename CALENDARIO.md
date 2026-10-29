@@ -72,3 +72,8 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 28/10 | "Você sabe ler a sua conta de luz?" → é o kWh · Comente ECONOMIA no carrossel de hoje · pilar 2 → 3 | Story (s_2026-10-28_leiaconta.jpg) | 17989169166074041 | — |
 
 28/10: versão com espaço para o adesivo de enquete ("Você sabe ler a sua conta de luz? Sei / Não faço ideia") em stories/s_2026-10-28_leiaconta_ENQUETE_app.jpg — a Aline posta pelo app se quiser a enquete real. Semana 28/10 a 03/11 criada e acrescentada à linha editorial (claude/02-linha-editorial.md).
+
+| 29/10 | Carregador na tomada sem celular: "tô só descansando" → stand-by puxa energia dia e noite · tire da tomada / régua com botão (sem números) · pilar 1 (ponte p/ 3 na legenda, sem 2ª palavra-chave) · CTA Siga o perfil | Estático-meme (posts/e4_standby.jpg) | 18110897429185476 | 0 (Windsor sem comentários em 28–29/10) |
+| 29/10 | Quiz "O que fica gastando energia em stand-by? A TV / O micro-ondas / Todos eles" → resposta no post de hoje · pilar 1 → 2 | Story (s_2026-10-29_standby.jpg, opções desenhadas) | 18113501578884713 | — |
+
+29/10: versão com espaço para o adesivo de quiz em stories/s_2026-10-29_standby_QUIZ_app.jpg — a Aline posta pelo app se quiser o quiz real (resposta certa: "Todos eles").
