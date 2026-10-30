@@ -77,3 +77,7 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 29/10 | Quiz "O que fica gastando energia em stand-by? A TV / O micro-ondas / Todos eles" → resposta no post de hoje · pilar 1 → 2 | Story (s_2026-10-29_standby.jpg, opções desenhadas) | 18113501578884713 | — |
 
 29/10: versão com espaço para o adesivo de quiz em stories/s_2026-10-29_standby_QUIZ_app.jpg — a Aline posta pelo app se quiser o quiz real (resposta certa: "Todos eles").
+
+| 30/10 | "Foi você, freezer?" → todo dono de comércio já interrogou o freezer · dica: tampa mal vedada deixa o motor ligado o dia todo · crédito solar, sem obra e sem taxa de adesão · Bahia 10%, até 14% acima de 1.000 kWh · Comente NEGÓCIO no Reels de hoje · pilar 1 → 3 | Story de apoio ao Reels 1 de empresário (stories/s_2026-10-30_freezer.jpg; sexta = só Story, Reels publicado por outra tarefa) | 18116626745038964 | 0 (Windsor sem comentários em 29–30/10) |
+
+30/10: Story sem adesivo interativo (não precisa de app). Amanhã 31/10: carrossel "Cadastro em 5 passos" + Story do último dia do cupom de 30% no seguro.
