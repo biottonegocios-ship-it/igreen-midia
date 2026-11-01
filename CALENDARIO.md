@@ -91,3 +91,8 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 31/10 | Último dia do cupom de 30% no seguro do carro (pagamento mensal, sem fidelidade, assistência 24 h) → Comente SEGURO no post do seguro (26/10) · pilar 3 | Story (s_2026-10-31_seguro_ultimodia.jpg) | 18134797370499988 | — |
 
 31/10: Story sem adesivo interativo. A partir de amanhã 01/11 não citar mais o cupom de 30% e a Aline precisa editar a mensagem do robô SEGURO no Meta Business Suite (cupom encerrado). Amanhã 01/11: carrossel "6 hábitos de 1 minuto que baixam a conta" (ECONOMIA) + enquete "Qual hábito você já tem?".
+
+| 01/11 | 6 hábitos de 1 minuto que baixam a conta (LED 60 W → 9 W: 9 × 1,4 kWh/mês pela fórmula · tirar da tomada o stand-by · geladeira longe da parede · teste do papel na borracha · chuveiro no verão, 5.500 W × 20 h ≈ 110 kWh · luz natural) → pagar menos sem mudar hábito · crédito solar, sem obra, sem taxa de adesão, Bahia 10%, a partir de 150 kWh · pilar 2 → 3 · ECONOMIA | Carrossel 8 (posts/c8_habitos_01–08) | 18094225181702132 | 0 (Windsor sem comentários em 31/10–01/11) |
+| 01/11 | Enquete "Qual desses hábitos você já tem?" (LED em tudo / Tiro da tomada / Teste do papel / Nenhum ainda, desenhadas) → Comente ECONOMIA no carrossel de hoje · pilar 2 → 3 | Story (s_2026-11-01_habitos.jpg) | 18130195777880348 | — |
+
+01/11: versão com espaço para o adesivo de enquete em stories/s_2026-11-01_habitos_ENQUETE_app.jpg — a Aline posta pelo app se quiser a enquete real (até 4 opções). Cupom de 30% do seguro encerrado: não citado; lembrar a Aline de editar a mensagem do robô SEGURO. Amanhã 02/11: carrossel "Condomínio: a conta das áreas comuns também pode pagar menos" (SÍNDICO) + caixa "Marque o síndico do seu prédio".
