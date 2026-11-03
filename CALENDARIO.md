@@ -101,3 +101,7 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 02/11 | "Síndico, isso é com você" → o prédio paga luz até de madrugada · áreas comuns podem pagar menos, sem obra, Bahia 10% · Comente SÍNDICO no carrossel de hoje · pilar 3 | Story (s_2026-11-02_condominio.jpg) | 18108379670301203 | — |
 
 02/11: o calendário pedia "Marque o síndico do seu prédio", mas isso seria um 2º CTA fora da lista permitida; o Story saiu com gancho "Síndico, isso é com você" e CTA único SÍNDICO. Versão com espaço para o adesivo de caixa de perguntas em stories/s_2026-11-02_condominio_CAIXA_app.jpg — a Aline posta pelo app se quiser. Amanhã 03/11 (terça): Reels 2 "O vendedor que deixa a porta aberta" (outra tarefa) + Story de apoio. Semana 04/11 em diante ainda não está na linha editorial: a tarefa de quarta cria a próxima semana.
+
+| 03/11 | "17° com a porta aberta?" → ar ligado com a porta aberta é pagar para gelar a calçada · dica: porta fechada, cortina de ar e 23° · crédito solar, sem obra e sem taxa de adesão · Bahia 10%, até 14% acima de 1.000 kWh · Comente NEGÓCIO no Reels de hoje · pilar 1 → 2 → 3 | Story de apoio ao Reels 2 de empresário (stories/s_2026-11-03_portaaberta.jpg; terça = só Story, Reels publicado por outra tarefa) | 17964566157233676 | 0 (Windsor sem comentários em 02–03/11) |
+
+03/11: Story sem adesivo interativo (não precisa de app). Semana 04/11 em diante ainda não está na linha editorial: a tarefa de quarta 04/11 cria a próxima semana (Reels 3 "Reunião de crise" na sexta 06/11).
