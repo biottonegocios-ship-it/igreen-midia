@@ -115,3 +115,8 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 04/11 | Quiz "Quem gasta mais no mês? Ferro de passar (1.000 W, 4 h/mês) ou micro-ondas (1.200 W, 20 min/dia)" (opções desenhadas; resposta: micro-ondas, 12 × 4 kWh) → Comente ECONOMIA no carrossel de hoje · pilar 2 → 3 | Story (s_2026-11-04_faconta.jpg) | 17878376367576512 | — |
 
 04/11: versão com espaço para o adesivo de quiz em stories/s_2026-11-04_faconta_QUIZ_app.jpg — a Aline posta pelo app se quiser o quiz real (resposta certa: "O micro-ondas"). Semana 04 a 10/11 criada e acrescentada à linha editorial. Amanhã 05/11: estático-meme "Banho de 40 minutos" (pilar 1, Siga o perfil). Sexta 06/11: Reels 3 "Reunião de crise" (outra tarefa) + Story de apoio NEGÓCIO.
+
+| 05/11 | "Eu saindo do banho de 40 minutos: 'Tava pensando na vida.'" → o chuveiro pensa junto · 40 min/dia = 20 h no mês · 5.500 W × 20 h ÷ 1.000 ≈ 110 kWh/mês, só uma pessoa (= família de 4 com 10 min cada) · dica: posição verão · ponte p/ 3 na legenda sem 2ª palavra-chave · pilar 1 · CTA Siga o perfil | Estático-meme (posts/e5_banho40.jpg) | 18104498528052670 | 0 (Windsor sem comentários em 04–05/11) |
+| 05/11 | Enquete "Quanto tempo dura o seu banho? Até 10 min / Mais que isso…" (opções desenhadas) · 40 min ≈ 110 kWh/mês · Siga o perfil · pilar 1 | Story (s_2026-11-05_banho40.jpg) | 18038496521656443 | — |
+
+05/11: versão com espaço para o adesivo de enquete em stories/s_2026-11-05_banho40_ENQUETE_app.jpg — a Aline posta pelo app se quiser a enquete real ("Até 10 min" / "Mais que isso 🙈"). Amanhã 06/11 (sexta): Reels 3 "Reunião de crise" (outra tarefa) + Story de apoio NEGÓCIO.
