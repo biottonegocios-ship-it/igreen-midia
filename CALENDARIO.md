@@ -120,3 +120,7 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 05/11 | Enquete "Quanto tempo dura o seu banho? Até 10 min / Mais que isso…" (opções desenhadas) · 40 min ≈ 110 kWh/mês · Siga o perfil · pilar 1 | Story (s_2026-11-05_banho40.jpg) | 18038496521656443 | — |
 
 05/11: versão com espaço para o adesivo de enquete em stories/s_2026-11-05_banho40_ENQUETE_app.jpg — a Aline posta pelo app se quiser a enquete real ("Até 10 min" / "Mais que isso 🙈"). Amanhã 06/11 (sexta): Reels 3 "Reunião de crise" (outra tarefa) + Story de apoio NEGÓCIO.
+
+| 06/11 | "Reunião de crise" → toda empresa já teve essa reunião quando a conta chega · os suspeitos: o ar, a cafeteira e o computador que ninguém desliga · pagar menos sem desligar nada: energia solar vira crédito na conta, sem obra e sem taxa de adesão · Bahia 10%, até 14% acima de 1.000 kWh · Comente NEGÓCIO no Reels de hoje · pilar 1 → 3 | Story de apoio ao Reels 3 de empresário (stories/s_2026-11-06_reuniaocrise.jpg; sexta = só Story, Reels publicado por outra tarefa) | 17991039132081620 | 0 (Windsor sem comentários em 05–06/11) |
+
+06/11: Story sem adesivo interativo (não precisa de app). Amanhã 07/11 (sábado): carrossel "Vai mudar de casa? Seu crédito vai junto" (ECONOMIA) + caixa "O que você quer saber antes de entrar?" (espaço para adesivo).
