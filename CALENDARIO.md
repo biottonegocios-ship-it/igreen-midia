@@ -177,3 +177,5 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 14/11 | "Quanto você paga de luz?" → conta de R$ 300 na Bahia: perto de R$ 25 por mês (estimativa) · sem desligar nada, sem obra, sem taxa de adesão · a partir de 150 kWh sua conta pode entrar · Comente ECONOMIA no carrossel de hoje · pilar 3 | Story (s_2026-11-14_simulacao.jpg) | 18417110272094705 | — |
 
 14/11: versão com espaço para o adesivo de slider em stories/s_2026-11-14_simulacao_SLIDER_app.jpg — a Aline posta pelo app se quiser o slider real ("Quanto você paga de luz?"). Amanhã 15/11 (domingo): carrossel "Lâmpada acesa: faça a conta" (ECONOMIA) + enquete "Sua casa já é toda LED?".
+
+14/11 (2ª execução, 11h53 BRT): nada novo publicado. A peça de 14/11 (carrossel simulação + Story slider) já tinha ido ao ar na execução de 00h57 UTC (21h57 BRT de sexta 13/11). Publicar de novo duplicaria o dia, e adiantar a peça de 15/11 desalinharia os dias de Reels (Ter 17). Comentários: 0 (Windsor sem comentários nos últimos 30 dias). Amanhã 15/11 (domingo): carrossel "Lâmpada acesa: faça a conta" (ECONOMIA) + enquete "Sua casa já é toda LED?".
