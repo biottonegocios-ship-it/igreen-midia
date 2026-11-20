@@ -204,3 +204,7 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 19/11 | Enquete "Você dorme com a TV ligada?" (opções "Sempre (tô sem jeito)" / "Nunca" desenhadas) · dica do desligamento automático · Siga o perfil · pilar 1 | Story (s_2026-11-19_tv.jpg) | 18080423327563096 | — |
 
 19/11: versão com espaço para o adesivo de enquete em stories/s_2026-11-19_tv_ENQUETE_app.jpg — a Aline posta pelo app se quiser a enquete real ("Sempre" / "Nunca"). Amanhã 20/11 (sexta): Reels 7 "Quem saiu por último?" (outra tarefa, NEGÓCIO) + Story de apoio "Quem saiu por último deixou tudo ligado". Sábado 21/11: carrossel "5 perguntas antes de entrar" (ECONOMIA) + caixa de perguntas (espaço para adesivo).
+
+| 20/11 | "Quem saiu por último deixou tudo ligado" → "Toda empresa tem um." · checklist "Antes de sair, confira: ar-condicionado, luzes, cafeteira" · para pagar menos sem depender da memória de ninguém: crédito solar na conta da empresa, sem obra, sem taxa de adesão, Bahia 10% · Comente NEGÓCIO no Reels de hoje · pilar 1 → 3 | Story de apoio ao Reels 7 (stories/s_2026-11-20_ultimo.jpg; sexta = só Story, Reels publicado por outra tarefa) | 18040235969656666 | 0 (Windsor sem comentários em 19–20/11) |
+
+20/11: Story sem adesivo interativo (não precisa de app). Amanhã 21/11 (sábado): carrossel "5 perguntas antes de entrar" (ECONOMIA) + caixa "Qual é a sua dúvida antes de entrar?" (espaço para adesivo).
