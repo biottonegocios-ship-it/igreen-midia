@@ -223,3 +223,7 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 23/11 | "Sua empresa é alta tensão?" → indústria, câmara fria, hospital, supermercado grande · se a fatura diz "Grupo A", existe a Conexão Livre · cada caso analisado pela fatura · Comente LIVRE no carrossel de hoje · pilar 3 | Story (s_2026-11-23_livre.jpg) | 18118753055019257 | — |
 
 23/11: Story sem adesivo interativo (não precisa de app). Amanhã 24/11 (terça): Reels 8 "O teste do papel" (outra tarefa, ECONOMIA) + Story de apoio "Sua geladeira passa no teste do papel?". Quarta 25/11: a semana 25/11–01/12 ainda não está na linha editorial — a tarefa de quarta cria a próxima semana.
+
+| 24/11 | "Sua geladeira passa no teste do papel?" → "Faça o teste hoje, na sua cozinha." · como fazer: 1. feche a porta sobre uma folha · 2. puxe a folha devagar · 3. saiu fácil? a borracha não está vedando · frio escapando = motor trabalhando mais · e para pagar menos sem trocar nada: crédito solar na sua conta, sem obra, sem taxa de adesão, Bahia 10% · Comente ECONOMIA no Reels de hoje · pilar 2 → 3 | Story de apoio ao Reels 8 (stories/s_2026-11-24_papel.jpg; terça = só Story, Reels publicado por outra tarefa) | 18104323733184588 | 0 (Windsor: 0 comentários nos posts de 18–23/11) |
+
+24/11: Story sem adesivo interativo (não precisa de app). Amanhã 25/11 (quarta): a semana 25/11–01/12 ainda não está na linha editorial — a tarefa de quarta cria a próxima semana (o Banco de roteiros acabou: criar também os Reels 9 e 10 de sexta 27/11 e terça 01/12).
