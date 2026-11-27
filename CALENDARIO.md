@@ -242,3 +242,7 @@ Regra para as próximas tarefas: antes de publicar, rodar git pull e conferir se
 | 26/11 | Quiz "Lâmpada LED de 9 W, acesa 5 h por dia: quanto gasta no mês?" (opções 1,4 / 9 / 14 kWh desenhadas; resposta 1,4 no post) · Siga o perfil · pilar 1 → 2 | Story (s_2026-11-26_controle.jpg) | 18004039892817002 | — |
 
 26/11: versão com espaço para o adesivo de quiz em stories/s_2026-11-26_controle_QUIZ_app.jpg — a Aline posta pelo app se quiser o quiz real (resposta certa: 1,4 kWh). Amanhã 27/11 (sexta): Reels 9 "A família chegou para as festas" (outra tarefa, ECONOMIA) + Story de apoio "Casa cheia nas festas? A conta vem em janeiro".
+
+| 27/11 | "Casa cheia nas festas?" → "A conta de dezembro chega em janeiro." · 3 dicas pra casa cheia: ar em 23° com porta fechada, banho curto/chuveiro no verão, apagou ao sair do cômodo · e pra pagar menos sem brigar com ninguém: crédito solar na sua conta, sem obra, sem taxa de adesão, Bahia 10% · Comente ECONOMIA no Reels de hoje · pilar 1 → 3 | Story de apoio ao Reels 9 (stories/s_2026-11-27_festas.jpg; sexta = só Story, Reels publicado por outra tarefa) | 18144036517620048 | 0 (Windsor sem comentários em 26–27/11) |
+
+27/11: Story sem adesivo interativo (não precisa de app). Amanhã 28/11 (sábado): carrossel "Alta temporada na orla: pousada, restaurante e barraca pagando menos" (NEGÓCIO) + caixa "Qual é o seu negócio na orla?" (espaço para adesivo).
